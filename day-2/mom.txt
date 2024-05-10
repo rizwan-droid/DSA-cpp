@@ -1,0 +1,6 @@
+13 april 2024
+
+last class - basics, conditionals, loops
+last class questions - 7
+
+today - pattern, number, function intro, questions on function
