@@ -10,7 +10,9 @@ int main(){
     // arr[4]= 50;
     // cout<<arr[1]<<endl;
     // cout<<arr[6];
-    for(int idx=0; idx<sizeof(arr)/sizeof(int); )
+    for(int idx=0; idx<sizeof(arr)/sizeof(int); idx++){
+        cout<<arr[idx];
+    }
 
     return 0;
 }
